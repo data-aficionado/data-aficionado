@@ -47,8 +47,8 @@ I specialize in the following technologies:
 
 ## Current Projects:
 
-- OXAIPN-GC: Oxaliplatin Induced Neuropathy Gene Compass | Personal Project
-* Engineered "OXAIPN-GC", an innovative web application for colorectal cancer (CRC) patients and medical professionals, providing a comprehensive genetic information repository to enhance treatment personalization and mitigate oxaliplatin-induced neurotoxicity. Utilized R for bioinformatics pipeline development and machine learning integration, ensuring accurate data analysis and decision support
-* Designed and implemented key features such as a user-friendly interface with responsive design, advanced search functionality integrating ElasticSearch, and dynamic educational content tailored for various literacy levels. Incorporated Large Language Models for personalized report summarization and real-time clinical decision support, enhancing usability for patients, doctors, and researchers
+### OXAIPN-GC: Oxaliplatin Induced Neuropathy Gene Compass | Personal Project
+- Engineered "OXAIPN-GC", an innovative web application for colorectal cancer (CRC) patients and medical professionals, providing a comprehensive genetic information repository to enhance treatment personalization and mitigate oxaliplatin-induced neurotoxicity. Utilized R for bioinformatics pipeline development and machine learning integration, ensuring accurate data analysis and decision support
+- Designed and implemented key features such as a user-friendly interface with responsive design, advanced search functionality integrating ElasticSearch, and dynamic educational content tailored for various literacy levels. Incorporated Large Language Models for personalized report summarization and real-time clinical decision support, enhancing usability for patients, doctors, and researchers
 
 
