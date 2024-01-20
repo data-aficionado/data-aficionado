@@ -4,7 +4,7 @@
 
 #### Welcome to my GitHub profile aka data-aficionado
 
-🔭 I'm currently working on machine learning projects focused on Driving Innovation and Transformation in Healthcare through Analytics using AI.
+🔭 I'm currently working on a machine learning project to find the molecular signature of Oxaliplatin Induced Neurotoxicity
 
 🌱 I'm currently learning advanced predictive modeling techniques.
 
