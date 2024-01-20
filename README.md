@@ -1,5 +1,7 @@
 # 👋 
 
+### Perseverance is not just a willingness to endure hardship, but the fortitude to face the storm, to outlast it, and to emerge not just unscathed but victorious. Life's most persistent and urgent question is, 'How much grit do you have?' For it is in the moments of relentless pursuit and undying resilience that we carve our path to greatness. Remember, it's not the mountain we conquer, but ourselves. So stand firm in the face of adversity, for the dawn of success is brightest after the darkest night. Never give up, for that is just the place and time that the tide will turn.
+
 ## I am Suneeta Modekurty 
 
 #### Welcome to my GitHub profile aka data-aficionado
