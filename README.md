@@ -11,15 +11,6 @@
 
 #### Welcome to my data-aficionado! :sparkles: 
 
-- 🔭 I’m currently working on amazing projects.
-- 🌱 I’m currently learning everything about data science.
-- 👯 I’m looking to collaborate on open-source projects.
-- 🤔 I’m looking for help with advanced algorithms.
-- 💬 Ask me about Python, SQL, and machine learning.
-- 📫 How to reach me: your-email@example.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love coding at sunrise. :sunrise:
-
 🔭 I'm currently working on an amazing machine learning project to find the molecular signature of Oxaliplatin Induced Neurotoxicity
 
 🌱 I'm currently re-learning everything about data science and advanced predictive modeling techniques
