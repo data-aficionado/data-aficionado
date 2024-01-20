@@ -9,13 +9,22 @@
 
 
 
-#### Welcome to my GitHub profile aka data-aficionado
+#### Welcome to my data-aficionado! :sparkles: 
 
-🔭 I'm currently working on a machine learning project to find the molecular signature of Oxaliplatin Induced Neurotoxicity
+- 🔭 I’m currently working on amazing projects.
+- 🌱 I’m currently learning everything about data science.
+- 👯 I’m looking to collaborate on open-source projects.
+- 🤔 I’m looking for help with advanced algorithms.
+- 💬 Ask me about Python, SQL, and machine learning.
+- 📫 How to reach me: your-email@example.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love coding at sunrise. :sunrise:
 
-🌱 I'm currently learning advanced predictive modeling techniques.
+🔭 I'm currently working on an amazing machine learning project to find the molecular signature of Oxaliplatin Induced Neurotoxicity
 
-💬 Ask me about anything related to Python, R, SQL, and machine learning.
+🌱 I'm currently re-learning everything about data science and advanced predictive modeling techniques
+
+💬 Ask me about anything related to Python, R, SQL, and machine learning... in a bit...
 
 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:suneetamodekurty7@gmail.com)
 
@@ -23,6 +32,8 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium)](https://medium.com/@suneetamodekurty77)
 
 ## ⚡ Fun facts about me
+
+I love coding at sunrise. :sunrise:
 
 I've perfected the art of snowman architecture during the winter months, creating frosty masterpieces that might just give data models a run for their money!
 
