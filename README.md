@@ -26,11 +26,11 @@
 
 I love coding at sunrise. :sunrise:
 
-I've perfected the art of snowman architecture during the winter months, creating frosty masterpieces that might just give data models a run for their money!
+I've perfected the art of snowman architecture during the winter months, creating frosty masterpieces that might just give data models a run for their money! ⛄️ 
 
-I'm an avid collector of autumn leaves, and I have a scrapbook filled with colorful specimens from different parts of the world – it's my own kind of natural dataset!
+I'm an avid collector of autumn leaves, and I have a scrapbook filled with colorful specimens from different parts of the world – it's my own kind of natural dataset! 🍁 🍂 🍃 
 
-Inspired by the serene beauty of falling snow, I once organized a snowflake photography session, capturing the intricate designs of snow crystals – nature's way of showing off its meticulous patterns!
+Inspired by the serene beauty of falling snow, I once organized a snowflake photography session, capturing the intricate designs of snow crystals – nature's way of showing off its meticulous patterns! ❄️ 
 
 ## Tech Stack:
 
