@@ -1,4 +1,6 @@
-# 👋 I am Suneeta Modekurty | She/ Her
+# 👋 
+
+## I am Suneeta Modekurty 
 
 #### Welcome to my GitHub profile aka data-aficionado
 
@@ -15,13 +17,13 @@
 
 ## ⚡ Fun facts about me
 
-- I've perfected the art of snowman architecture during the winter months, creating frosty masterpieces that might just give data models a run for their money!
-- I'm an avid collector of autumn leaves, and I have a scrapbook filled with colorful specimens from different parts of the world – it's my own kind of natural dataset.
-- Inspired by the serene beauty of falling snow, I once organized a snowflake photography session, capturing the intricate designs of snow crystals – nature's way of showing off its meticulous patterns.
+I've perfected the art of snowman architecture during the winter months, creating frosty masterpieces that might just give data models a run for their money!
+
+I'm an avid collector of autumn leaves, and I have a scrapbook filled with colorful specimens from different parts of the world – it's my own kind of natural dataset!
+
+Inspired by the serene beauty of falling snow, I once organized a snowflake photography session, capturing the intricate designs of snow crystals – nature's way of showing off its meticulous patterns!
 
 ## Tech Stack:
-
-I specialize in the following technologies:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
@@ -39,7 +41,7 @@ I specialize in the following technologies:
 ![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-555555?style=flat)
 ![NLP](https://img.shields.io/badge/-NLP-555555?style=flat)
 
-## Current Projects:
+## Current Project:
 
 ### OXAIPN-GC: Oxaliplatin Induced Neuropathy Gene Compass | Personal Project
 Engineered "OXAIPN-GC", an innovative web application for colorectal cancer (CRC) patients and medical professionals, providing a comprehensive genetic information repository to enhance treatment personalization and mitigate oxaliplatin-induced neurotoxicity. Utilized R for bioinformatics pipeline development and machine learning integration, ensuring accurate data analysis and decision support.
