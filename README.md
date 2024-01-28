@@ -13,7 +13,7 @@
 
 🔭 I'm currently working on an amazing machine learning project to find the molecular signature of Oxaliplatin Induced Neurotoxicity
 
-🌱 I'm currently re-learning everything about data science and advanced predictive modeling techniques
+🌱 I'm currently  busy learning everything about Data Science and Aadvanced Predictive Modeling Techniques with LLMs and Gen AI
 
 💬 Ask me about anything related to Python, R, SQL, and machine learning... in a bit...
 
