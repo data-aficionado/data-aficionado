@@ -15,7 +15,7 @@
 
 🌱 I'm currently  busy learning everything about Data Science and Aadvanced Predictive Modeling Techniques with LLMs and Gen AI
 
-💬 Ask me about anything related to Python, R, SQL, and machine learning... in a bit...
+💬 Ask me about anything related to Python, R, SQL, and machine learning...Technical Program Management...in a bit...
 
 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:suneetamodekurty7@gmail.com)
 
